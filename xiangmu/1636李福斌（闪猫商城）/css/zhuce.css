@@ -1,0 +1,46 @@
+@charset "utf-8";
+#zhuce_top,#zhuce_con{width:1200px;margin: 0 auto;}
+
+/*zhucetop*/
+#zhuce_top{min-height:70px;_height:70px;padding-top:50px;}
+#zhuce_top .zhuce_logo{width:228px;height:70px;float: left;}
+#zhuce_top b{float: left;width:330px;height:35px;margin:30px 0 0 30px;color:#999999; }
+#zhuce_top span{float:right;width:84px;height:18px;font-size:12px;padding-top:30px;}
+#zhuce_top a{color:dodgerblue;}
+/*zhuce con*/
+#zhuce_content{border-top: 1px solid #999999;border-bottom: 1px solid #999999;}
+#zhuce_con{min-height:580px;_height:580px;}
+#zhuce_con a{float:left;width:430px;height:380px;padding:64px 105px 64px 65px;}
+#zhuce_con .form{width:535px;height:520px;padding:25px 0 0 35px;float: left;margin-top:20px;border:1px solid #999999;box-shadow:1px 1px 1px 1px #999999;}
+#zhuce_con .form ul{width:535px;height:42px;}
+#zhuce_con .form ul li{float: left;width:140px;height:42px;padding:0 20 0 20px;text-align: center;line-height:42px;}
+#zhuce_con .form ul .email_btn{border-bottom:2px solid #E23435;}
+.zhuce_email{height:570px;height:40px;padding-top: 20px;position: relative;}
+#zhuce_con .form span{color:#FF0000;font-weight: 600;min-height:20px;_height:20px;min-width: 50px;_width:50px;padding-left: 30px;font-size: 12px;}
+.zhuce_email input{width:238px;height:18px;padding:10px 25px 10px 15px;outline: none;border:0;border:1px solid #A8A8A8;}
+.zhuce_email .chx{width:13px;height:13px;margin-top:15px;}
+.zhuce_email .sbt{height:40px;background:#FF0000;border: 0;border-radius:5%;outline: none;color:#FFFFFF;}
+.zhuce1 #email_suijiyanzhengma{margin-left:120px;}
+.form .email_txt{background: url(../img/email_zhuce1.gif) 250px center no-repeat ;}
+.form .email_txt:focus{background: url(../img/zhuce3.gif) 250px center no-repeat ;}
+.form .email_email{background: url(../img/zhuce1.gif) 250px center no-repeat ;}
+.form .email_email:focus{background: url(../img/zhuce4.gif) 250px center no-repeat ;}
+
+.form .email_pswd{background: url(../img/zhuce2.gif) 250px center no-repeat ;}
+.form .email_pswd:focus{background: url(../img/zhuce5.gif) 250px center no-repeat ;}
+.zhuce2{display: none;}
+.zhuce2 .phone_txt{width:90px;height:20px;}
+.zhuce2 .yanzhengma{width:120px;height:40px;position: absolute;border: 0;margin-left:10px;outline: none;}
+
+.zhuce1 .phone_txt{width:90px;height:20px;}
+.zhuce1 .yanzhengma{width:120px;height:40px;position: absolute;border: 0;margin-left:10px;outline: none;}
+
+/*footer*/
+#footer{
+	background: white;
+	
+}
+#footer #footer_left a{color:#000000;}
+/*弹出层*/
+#tanchuceng111{display:none;width:400px;height:200px;background:pink;position: absolute;left: 0;right: 0;top:0;bottom: 0;margin: auto;box-shadow: 1px 1px 1px 1px black;background:#CCCCCC;text-align: center;font-size:20px;line-height:200px;color: #FFFFFF;font-family: "微软雅黑";opacity: 0.9;}
+#tanchuceng111 a{border: 1px solid  #000000;box-shadow: 2px 2px 2px 2px black;color:#FF0000;}

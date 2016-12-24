@@ -1,0 +1,137 @@
+//giftleft
+[
+	{src:"img/giftleft1.gif"},
+	{src:"img/giftleft2.gif"},
+	{src:"img/giftleft3.gif"},
+	{src:"img/giftleft4.gif"},
+	{src:"img/giftleft5.gif"},
+	{src:"img/giftleft6.gif"},
+	{src:"img/giftleft7.gif"},
+	{src:"img/giftleft8.gif"},
+	
+	{src:"img/giftleft1.gif"},
+	{src:"img/giftleft2.gif"},
+	{src:"img/giftleft3.gif"},
+	{src:"img/giftleft4.gif"},
+	{src:"img/giftleft5.gif"},
+	{src:"img/giftleft6.gif"},
+	{src:"img/giftleft7.gif"},
+	{src:"img/giftleft8.gif"},
+	
+	{src:"img/giftleft1.gif"},
+	{src:"img/giftleft2.gif"},
+	{src:"img/giftleft3.gif"},
+	{src:"img/giftleft4.gif"},
+	{src:"img/giftleft5.gif"},
+	{src:"img/giftleft6.gif"},
+	{src:"img/giftleft7.gif"},
+	{src:"img/giftleft8.gif"},
+	
+	
+	{src:"img/shenxianleft1.jpg"},
+	{src:"img/shenxianleft2.jpg"},
+	{src:"img/shenxianleft3.jpg"},
+	{src:"img/shenxianleft4.jpg"},
+	{src:"img/shenxianleft5.jpg"},
+	{src:"img/shenxianleft6.jpg"},
+	{src:"img/shenxianleft7.jpg"},
+	{src:"img/shenxianleft8.jpg"},
+	
+	
+	{src:"img/shenxianleft1.jpg"},
+	{src:"img/shenxianleft2.jpg"},
+	{src:"img/shenxianleft3.jpg"},
+	{src:"img/shenxianleft4.jpg"},
+	{src:"img/shenxianleft5.jpg"},
+	{src:"img/shenxianleft6.jpg"},
+	{src:"img/shenxianleft7.jpg"},
+	{src:"img/shenxianleft8.jpg"},
+	{src:"img/shenxianleft1.jpg"},
+	{src:"img/shenxianleft2.jpg"},
+	{src:"img/shenxianleft3.jpg"},
+	{src:"img/shenxianleft1.jpg"},
+	{src:"img/shenxianleft2.jpg"},
+	{src:"img/shenxianleft3.jpg"}
+		
+];
+//gift_right
+[
+	{src:"img/giftright1.jpg"},
+	{src:"img/giftright2.jpg"},
+	{src:"img/giftright3.jpg"},
+	{src:"img/giftright4.jpg"},
+	{src:"img/giftright5.jpg"},
+	{src:"img/giftright6.jpg"},
+	{src:"img/giftright7.jpg"},
+	{src:"img/giftright8.jpg"},
+
+	
+	{src:"img/giftright1.jpg"},
+	{src:"img/giftright2.jpg"},
+	{src:"img/giftright3.jpg"},
+	{src:"img/giftright4.jpg"},
+	{src:"img/giftright5.jpg"},
+	{src:"img/giftright6.jpg"},
+	{src:"img/giftright7.jpg"},
+	{src:"img/giftright8.jpg"},
+
+	
+	{src:"img/giftright1.jpg"},
+	{src:"img/giftright2.jpg"},
+	{src:"img/giftright3.jpg"},
+	{src:"img/giftright4.jpg"},
+	{src:"img/giftright5.jpg"},
+	{src:"img/giftright6.jpg"},
+	{src:"img/giftright7.jpg"},
+	{src:"img/giftright8.jpg"},
+	
+	{src:"img/shenxian1.jpg"},
+	{src:"img/shenxian2.jpg"},
+	{src:"img/shenxian3.jpg"},
+	{src:"img/shenxian4.jpg"},
+	{src:"img/shenxian5.jpg"},
+	{src:"img/shenxian6.jpg"},
+	{src:"img/shenxian7.jpg"},
+	{src:"img/shenxian8.jpg"},
+	
+	];
+//gift_bottom	
+[
+	{src:"img/giftbottom1.jpg"},
+	{src:"img/giftbottom2.jpg"},
+	{src:"img/giftbottom3.jpg"},
+	{src:"img/giftbottom4.jpg"},
+	{src:"img/giftbottom5.jpg"},
+	
+	{src:"img/giftbottom1.jpg"},
+	{src:"img/giftbottom2.jpg"},
+	{src:"img/giftbottom3.jpg"},
+	{src:"img/giftbottom4.jpg"},
+	{src:"img/giftbottom5.jpg"},
+	
+	{src:"img/giftbottom1.jpg"},
+	{src:"img/giftbottom2.jpg"},
+	{src:"img/giftbottom3.jpg"},
+	{src:"img/giftbottom4.jpg"},
+	{src:"img/giftbottom5.jpg"},
+	
+	{src:"img/shenxianbottom1.jpg"},
+	{src:"img/shenxianbottom2.jpg"},
+	{src:"img/shenxianbottom3.jpg"},
+	{src:"img/shenxianbottom4.jpg"},
+	{src:"img/shenxianbottom5.jpg"},
+];
+//
+//love shop
+[
+	{src:"img/love_shop1.jpg"},
+	{src:"img/love_shop2.jpg"},
+	{src:"img/love_shop3.jpg"},
+	{src:"img/love_shop4.jpg"},
+	{src:"img/love_shop5.jpg"},
+	{src:"img/love_shop6.jpg"},
+	{src:"img/love_shop7.jpg"},
+	{src:"img/love_shop8.jpg"},
+	{src:"img/love_shop9.jpg"}
+	
+]

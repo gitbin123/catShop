@@ -1,0 +1,6 @@
+主界面 index.html   jquery，js, json添加图片
+用户登录 denglu.html	cookie验证
+用户注册  zhuce.html	cookie
+购物车   shopcar.html	cookie
+物品列表 shoplistall.html  json添加所有
+物品详情 shoplist.html shoplist2.html

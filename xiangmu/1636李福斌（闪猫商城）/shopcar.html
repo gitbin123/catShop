@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script type="text/javascript" src="jquery-3.1.1.js" ></script>
+		<script type="text/javascript" src="js/common.js" ></script>
+		<script type="text/javascript" src="js/shopcar.js" ></script>
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" href="css/index.css" />
+		<link rel="stylesheet" href="css/shopcar.css" />
+	</head>
+	<body>
+		<div id="shopcar_top"></div>
+		<div id="shopcar_top_con"></div>
+		<div id="shopcar_content">		
+			<div id="shopcar_con">
+				<div class="shopcar__con_top">
+					<i></i><h3>购物车（<span>0</span>）</h3>
+					<p>配送至:<select>
+						<option>北京</option>
+						<option>上海</option>
+						<option>广州</option>
+					</select></p>
+				</div>
+				<table id="shopping">
+					<tr>
+						<th><input type="checkbox" class="allselect"/>全选</th>
+						<th>商品</th>
+						<th>属性</th>
+						<th>单元（元）</th>
+						<th>数量</th>
+						<th>小计（元）</th>
+						<th>操作</th>						
+					</tr>
+				</table>
+				<div class="no_shop">还未购物 快去<a href="index.html">购物</a></div>
+				<div class="zongji">
+					<a>全选</a>
+					<a class="delet">全部删除</a>
+					<a>移到我的收藏</a>
+					<a>已经选择<span>5</span>件商品</a>
+					<a>已节省：￥0.00</a>
+					<a>总价：不含运费:￥<i class="allprice">3024.00</i></a>
+					<a href="javascript:;" class="zongji_jiesuan">去结算</a>
+						
+				</div>
+			</div>
+		</div>
+		<div id="shopcar_bottom"></div>
+	</body>
+</html>

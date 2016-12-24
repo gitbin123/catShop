@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+/*引入的样式改变*/
+#logo_lefts{display: none;}
+#logo_rights{display: none;}
+#logo_right{padding-left:410px;}
+#logo_right p{display: none;}
+
+
+/*购物车top*/
+#shopcar_content{border-top: 1px solid #E23435;}
+#shopcar_con{min-height:400px;_height:400px;width:1200px;margin: 0 auto;background: #F4DBB9;}
+/*购物车content*/
+.shopcar__con_top{width:1200px;height:25px;padding:20px 0;}
+.shopcar__con_top i{float: left;width:26px;height:26px;background: url(../img/ecsc_icon.png) -490px -199px no-repeat;margin:0 15px 0 6px;}
+.shopcar__con_top h3{width:1000px;float: left;}
+.shopcar__con_top p{float: left;}
+/*表单*/
+#shopping{border-collapse: collapse;position: relative;}
+#shopping tr{height:107px;background:#F4DBB9;margin-bottom: 12px;font-size: 12px;position: relative;}
+#shopping tr th{width:170px;height:40px;background:#EFEFEF;}
+#shopping tr .allselect{position: absolute;top:45px;left:20px;}
+/*总计*/
+.zongji{min-height:80px;_height:80px;width:1200px;background:#FFFFFF;padding-top:10px;}
+.zongji a{height:20px;padding:30px;color:black;float: left;}
+.zongji .zongji_jiesuan{background:red;width:70px;height:50px;padding: 0;text-align: center;line-height:50px;margin:20px 0 0 50px;}
+.no_shop{height:300px;text-align: center;line-height:300px;}

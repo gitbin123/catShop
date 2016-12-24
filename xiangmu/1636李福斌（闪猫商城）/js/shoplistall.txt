@@ -1,0 +1,63 @@
+//sa——h1
+[	
+	{type:'鞋靴、箱包、钟表、奢侈品'},
+	{type:'食品、酒类、生鲜、特产'},
+	{type:'男装、女装、内衣'}
+	
+];
+//sa_h2
+[
+	{name:'爱华仕0iwas荷兰风车大通量旅行男女休闲双肩14寸15.6寸电脑背包4000黑色'},
+	{name:'轻雅多维营养代餐粉 果蔬纤维 膳食纤维 魔芋粉产品低卡纤体奶昔饱腹非左旋肉碱减肥16天量'},
+	{name:'媞沫 2014夏装新品女装 宽松假两件蝙蝠短袖印花雪纺衫 粉色 S'}
+];
+//sa_h1_2
+[
+	{name:'爱华仕0iwas荷兰风车大通量旅行男女休闲双肩14寸15.6寸电脑背包4000黑色'},
+	{name:'轻雅多维营养代餐粉 果蔬纤维 膳食纤维 魔芋粉产品低卡纤体奶昔饱腹非左旋肉碱减肥16天量'},
+	{name:'媞沫 2014夏装新品女装 宽松假两件蝙蝠短袖印花雪纺衫 粉色 S'}
+	
+];
+//shoplist-splace_con_left_img
+[
+		{src:'img/shoplist1.jpg'},
+		{src:'img/shenxian4.jpg'},
+		{src:'img/hot2.jpg'}
+		
+];
+//sa_smallimg
+[
+		{src:'img/shoplist1.jpg'},
+		{src:'img/shenxian4.jpg'},
+		{src:'img/hot2.jpg'}
+];
+//shengyu
+[
+	{count:'980'},
+	{count:'200'},
+	{scoun:'300'}
+];
+//sa_paizi
+[
+	{pinpai:'esprit'},
+	{pinpai:'撒旦王'},
+	{pinpai:'梦特娇'}
+];
+//sa_place
+[
+	{place:'北京昌平'},
+	{place:'河北'},
+	{place:'广州市 广东'}
+];
+//now price
+[
+	{nowprice:'￥99.99'},
+	{nowprice:'￥100.25'},
+	{nowprice:'￥80.00'}
+];
+//before_price
+[
+	{before_price:'￥188.00'},
+	{before_price:'￥355.99'},
+	{before_price:'￥400.55'}
+]
